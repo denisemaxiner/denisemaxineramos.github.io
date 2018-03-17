@@ -1,0 +1,23 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+
+.a{
+height:600px;
+width=100%;
+background-color:#FFDAB9;
+}
+.b{
+height:600px;
+background-color:#FFEFD5;
+ top: 100%;
+ left: 50%;
+}
+.c{
+font-family: cambria;
+font-size:16;
+}
+.d{
+ position:absolute;
+ left:35%;
+top:94%;
+width: 500px;
+ }
